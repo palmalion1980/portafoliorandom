@@ -1,6 +1,6 @@
 # Perfil Random 👨‍💻
 
-Proyecto simple en **Vanilla JS** que consume la API [RandomUser.me](https://randomuser.me/api) y muestra el perfil aleatorio de un supuesto **desarrollador web**.  
+git remote add origin git@github.com:palmalion1980/portafoliorandom.git y muestra el perfil aleatorio de un supuesto **desarrollador web**.  
 El proyecto utiliza **Webpack** y varios plugins para manejar **CSS, imágenes, minificación** y compatibilidad con **Babel**.
 
 ---
