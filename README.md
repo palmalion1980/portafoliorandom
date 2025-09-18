@@ -40,7 +40,7 @@ Copiar código
 npm run build
 Esto crea la carpeta /dist lista para desplegar en Netlify u otro servicio.
 
-🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 JavaScript (Vanilla)
 
 Webpack + Plugins:
@@ -57,7 +57,7 @@ terser-webpack-plugin, css-minimizer-webpack-plugin
 
 API pública: randomuser.me
 
-📸 Vista previa
+## 📸 Vista previa
 Ejemplo de perfil generado:
 
 
@@ -66,4 +66,5 @@ Ejemplo de perfil generado:
 🌍 País: United States
 📄 Licencia
 Este proyecto se distribuye bajo licencia MIT.
+
 Eres libre de usarlo, modificarlo y compartirlo.
